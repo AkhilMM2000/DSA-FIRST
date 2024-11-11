@@ -1,5 +1,5 @@
 //flat an array dont use flat inbuild methods
-let array=
+let array=[[1,2,3],[3[34,5]]]
 
 function flastarray(array){
    let flat=[] 
